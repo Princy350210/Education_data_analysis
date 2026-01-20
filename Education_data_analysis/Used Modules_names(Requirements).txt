@@ -1,9 +1,0 @@
-The libraries/modules below that are essential requirements for the analysis are:
-pandas
-numpy
-matplotlib.pyplot
-
-To install:
-pip install pandas
-pip install numpy
-pip install matplotlib
