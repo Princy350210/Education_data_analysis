@@ -26,4 +26,6 @@ In countries like **South Sudan** and **Equatorial Guinea**, out-of-school rates
 A subset of countries, including **Burkina Faso** and **Liberia**, showed a reverse pattern where the male out-of-school rate slightly exceeded the female rate, indicating a different set of barriers.
 
 
+This is my current analysis however,I am in middle of the process of executing more analysis and better complex qualititative analysis. I am learning day by day through this entire process. Thank you so much for reading this far.
+
 
